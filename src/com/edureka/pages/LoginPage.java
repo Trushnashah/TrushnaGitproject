@@ -9,7 +9,7 @@ public class LoginPage {
 	@FindBy(name ="userName")
 	WebElement userName;
 
-	// Locator Type, LocatorValue -- name, userName
+	/77777/ Locator Type, LocatorValue -- name, userName
 	@FindBy(name = "password")
 	WebElement passwordEle;
 	
